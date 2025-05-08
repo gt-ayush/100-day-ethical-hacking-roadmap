@@ -1,4 +1,4 @@
-Got it! Here’s a **beginner-friendly 100-day ethical hacking roadmap** tailored for someone with basic Linux command-line knowledge. We’ll start from foundational concepts and slowly ramp up to advanced attacks, ensuring you’re job-ready by the end. Each phase includes hands-on labs and real-world practice. 🚀  
+Here’s a **beginner-friendly 100-day ethical hacking roadmap** tailored for someone with basic Linux command-line knowledge. We’ll start from foundational concepts and slowly ramp up to advanced attacks, ensuring you’re job-ready by the end. Each phase includes hands-on labs and real-world practice. 🚀  
 
 ---
 
